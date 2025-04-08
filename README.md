@@ -23,14 +23,21 @@ React Router DOM – For routing between pages
 JavaScript (ES6+) – For logic and interactivity
 
 🚀 Getting Started
+
 git clone https://github.com/NisargaArgekar/bitemeal.git
+
 cd BiteMeal
+
 npm install
+
 npm start
+
 npm run dev
+
 This open: https://localhost:5173
 
 📜 License
+
 This project is licensed under the MIT License – use it freely for learning and personal use.
 
 

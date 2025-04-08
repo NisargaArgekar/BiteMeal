@@ -27,13 +27,9 @@ JavaScript (ES6+) – For logic and interactivity
 git clone https://github.com/NisargaArgekar/bitemeal.git
 
 cd BiteMeal
-
 npm install
-
 npm start
-
 npm run dev
-
 This open: https://localhost:5173
 
 📜 License
